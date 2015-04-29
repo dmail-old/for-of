@@ -1,0 +1,7 @@
+{
+	"name": "@dmail/for-of",
+	"version": "0.0.1",
+	"dependencies": {
+		"@dmail/symbol": "*"
+	}
+}
